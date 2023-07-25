@@ -1,0 +1,40 @@
+
+JDK 17
+Spring core basics
+Database
+Web technologies like httpm httpstatus codes, requst, response etc
+====================
+
+Software 
+====================================
+JDK 17 or above
+IDE: Eclipse IDE for Java EE/ STS / IntelliJ Idea
+Database: MySQL/MongoDB/Redis DB
+Postman for rest endpoints resting
+======================================
+
+Java-cloud LAB : Provided
+
+TOC:
+=======
+
+Configure a Spring MVC application - ​Configuring a Spring MVC application using Spring Boot.
+Basics of the Spring framework - Using dependency injection, inversion of control, and application context.
+Build Simple REST APIs - Set up a web server, build REST APIs, perform CRUD operations, serve resources.
+Bootstrap a simple application using Spring Initializer - ​Generating a basic Spring Boot project structure with a Maven build specification.
+Utilize the Spring Boot CLI and Groovy to create an application​ - Writing a Groovy script and running via the Spring Boot CLI to author a simple RESTful API.
+Configure an application to run in multiple environments​ - Configuring an application to run in multiple environments (e.g. DEV, QA, or PROD) using Spring Boot Profiles.
+Generate an auto-configuration report ​- Generating Spring Boot’s auto-configuration report in order to boost productivity when developing applications.
+Write a unit test for a simple application​ - Enabling testing in a Spring Boot project and writing unit and integration tests."
+Principles of Microservices, Benefits & Anti patterns, RESTful API's, API Gateways, Spring Cloud Microservices.
+Access data from a database using Spring Boot ​- This competency area includes using Spring Boot’s auto-configuration to access data from an H2 database within a simple application.
+Develop a RESTful API​ - Using Spring Boot and its annotations to configure and develop a more robust RESTful API.
+Deploy an application to a Tomcat server​ - Packaging and deploying a simple application using an embedded Tomcat server.
+Implement exception handling​ - Implementing exception handling and utilizing Spring Boot’s options for customizing error responses.
+Configure logging and set logging levels​ - Utilizing Spring Boot to set up a logging object and configure it to log different types (e.g. INFO, TRACE, and DEBUG) of messages.
+
+
+
+
+
+
